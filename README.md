@@ -16,4 +16,5 @@ data_info.txt 文件中的每一行对应一个图像样本，其数据格式如
 
 ## 使用方式
 swin预训练模型以及最后的模型权重在百度网盘中获取，链接如下：
-
+链接：https://pan.baidu.com/s/13ryo2dt_XYgscdQ_3m2GOQ 
+提取码：p36n
